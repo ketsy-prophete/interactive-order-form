@@ -1,0 +1,47 @@
+body {
+    font-family: "Protest Riot", sans-serif;
+    background-color: #d9c09c;
+}
+
+.createOrder {
+    text-align: center;
+    border: 1px solid black;
+    width: 800px;
+    margin: auto;
+}
+
+.form {
+    border: 1px solid black;
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
+
+.form #btn {
+    margin-top: 3%;
+}
+
+.form #crust {
+    margin-bottom: 1%;
+}
+
+.form #sauce {
+    margin-bottom: 1%;
+}
+
+#order {
+    border: 1px solid black;
+    width: 800px;
+    margin: auto;
+    padding: 5px 0px 5px 5px;
+}
+
+#order p {
+    font-weight: bold;
+    margin: 0;
+}
+
+#order #toppings {
+    padding-bottom: 2%;
+}
